@@ -15,7 +15,11 @@ Trained using Classic ML:
 Also used NN:
 
 Model:
+
 ![](img/au1.PNG)
 
 EVAL:
+
 ![](img/au2.PNG)
+
+Also, There is a real time notebook to predict Emotions directly..
