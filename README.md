@@ -20,6 +20,7 @@ Model:
 
 EVAL:
 
-![](img/au2.PNG)
+![](img/au2.jpg)
+![](img/au3.jpg)
 
 Also, There is a real time notebook to predict Emotions directly..
